@@ -42,6 +42,8 @@ Ecommerce Sales Dashboard, a powerful tool designed to provide you with comprehe
 ### Conclusion:
 
 Our Ecommerce Sales Dashboard empowers you with the insights needed to drive success in the online marketplace. By leveraging the power of data, we're able to make informed decisions that lead to increased sales and profitability.
-![image](https://github.com/Samayamy/Ecommerce-Sales-Dashboard/assets/53617164/d9eea18e-8d58-4092-ba4c-aa7f6b0e718a)
+![Ecommerce Sales Dashboard](https://github.com/Samayamy/Ecommerce-Sales-Dashboard/assets/53617164/2aa32954-0ec7-4e34-891a-7b11b7b1e380)
+
+
 
 
